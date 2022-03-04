@@ -1,0 +1,16 @@
+# Exported from 3D Builder
+
+newmtl Green_1_0_0
+Kd 0.129412 0.733333 0.298039
+
+newmtl Orange_1_1_0
+Kd 1.000000 0.498039 0.145098
+
+newmtl Turquoise_1_2_0
+Kd 0.000000 0.627451 0.909804
+
+newmtl White_1_3_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Yellow_1_4_0
+Kd 0.996078 0.945098 0.000000
